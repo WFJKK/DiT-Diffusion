@@ -31,7 +31,7 @@ Can also be used for image generation (with a different dataset though).
 
 ```bash
 git clone https://github.com/WFJKK/DiT-Diffusion.git
-cd picturedenoiser
+cd DiT-Diffusion
 pip install -r requirements.txt
 ```
 
